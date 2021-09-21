@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/diosmosis/terraform-provider-docker-image.svg?branch=master)](https://travis-ci.org/diosmosis/terraform-provider-docker-image)
 
+**DEPRECATED**
+
 # terraform-provider-docker-image
 
 This provider contains two resource types that makes it easier to manage docker images & docker registries w/ terraform.
